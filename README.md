@@ -1,2 +1,2 @@
-# MedicalShopManagement
+# MedicalShopManagementProject
 Medical Shop Management Repository
